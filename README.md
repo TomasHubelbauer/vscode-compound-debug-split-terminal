@@ -142,4 +142,4 @@ https://github.com/Microsoft/vscode/commit/7a9f7e5e1f7abf234d25b69a81885f22e8475
 But not only does that not work for me, additionally, the `group` field values
 are limited to a closed set of values, not free-form.
 
-VS Code issue: https://github.com/Microsoft/vscode/issues/69619
+VS Code issue: https://github.com/microsoft/vscode/issues/68123
